@@ -1,5 +1,9 @@
 # SafeSpace (2.0) – AI Mental Health Therapist
 
+
+Demo video - https://drive.google.com/file/d/1EsreqI2LXntl13SQdj_EtjOPpLgftTJo/view?usp=sharing
+
+
 SafeSpace is an AI-powered mental health companion that combines a chat-style frontend, an LLM-based backend agent, and integrations with Twilio WhatsApp and Google Maps. It is designed to offer empathetic, tool-augmented support, including:
 
 - Conversational mental health guidance using a therapeutic LLM (MedGemma via Groq)
