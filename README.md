@@ -1,4 +1,4 @@
-# SafeSpace (2.0) – AI Mental Health Therapist
+# SafeSpace – AI Mental Health Therapist
 
 
 Demo video - https://drive.google.com/file/d/1EsreqI2LXntl13SQdj_EtjOPpLgftTJo/view?usp=sharing
